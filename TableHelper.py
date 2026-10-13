@@ -1,6 +1,7 @@
 # =====================================================================
 # Table helper (used by every Part 7 solution)
 # =====================================================================
+import numpy as np
 import pandas as pd
 from IPython.display import display, HTML
 
